@@ -1,6 +1,6 @@
 # Bayesian nonparametric models for bipartite graphs
 
-In this repo contains the slides regarding the paper [Bayesian nonparametric models for bipartite graphs, F. Caron](https://papers.nips.cc/paper/2012/hash/0768281a05da9f27df178b5c39a51263-Abstract.html), produced for the course [20605 - MACHINE LEARNING II](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20605&anno=2022&IdPag=6619).
+This repo contains the slides regarding the paper [Bayesian nonparametric models for bipartite graphs, F. Caron](https://papers.nips.cc/paper/2012/hash/0768281a05da9f27df178b5c39a51263-Abstract.html), produced for the course [20605 - MACHINE LEARNING II](https://didattica.unibocconi.it/ts/tsn_anteprima.php?cod_ins=20605&anno=2022&IdPag=6619).
 
 ## Branches
 
